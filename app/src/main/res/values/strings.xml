@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Parcial#1 AM</string>
+    <string name="texto_usuario">Usuario</string>
+    <string name="hint_usuario">usuario:admin</string>
+    <string name="texto_contraseña">Contraseña</string>
+    <string name="hint_contraseña">contraseña:12345</string>
+    <string name="texto_iniciar">Iniciar sesion</string>
+    <string name="texto_nombre">Nombre pelicula</string>
+    <string name="texto_director">Director</string>
+    <string name="texto_ingles">Ingles</string>
+    <string name="texto_idioma">Idioma</string>
+    <string name="texto_genero">Genero</string>
+    <string name="texto_ES">Español</string>
+    <string name="hint_pelicula">Nombre de la pelicula</string>
+    <string name="hint_Director">Nombre del director</string>
+    <string name="textto_mayu">Mayuscula</string>
+    <string name="texto_lista">Listado</string>
+    <string name="texto_ordenar">Ordenar A-Z</string>
+    <string name="texto_ordeng">Ordenar por genero</string>
+    <string name="texto_inver">Invertir lista</string>
+    <string name="texto_eliminarFst">Eliminar primero</string>
+    <string-array name="generos">
+        <item>Acción</item>
+        <item>Suspenso</item>
+        <item>Drama</item>
+        <item>Comedia</item>
+    </string-array>
+
+</resources>

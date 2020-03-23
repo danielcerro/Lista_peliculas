@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnuordeng"
+        android:title="@string/texto_ordeng" />
+    <item
+        android:id="@+id/mnuordenN"
+        android:title="@string/texto_ordenar" />
+    <item
+        android:id="@+id/mnuinvertir"
+        android:title="@string/texto_inver" />
+    <item
+        android:id="@+id/mnueliminarfst"
+        android:title="@string/texto_eliminarFst" />
+</menu>
